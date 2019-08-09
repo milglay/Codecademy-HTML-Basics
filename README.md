@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Milan L</h1> 
+  <h1>Milan</h1> 
   <img src="https://momswithgroms.com/wp-content/uploads/2018/11/momswithgroms-lavender.jpg"/>
   <div id="introduction">
     <h2>Southern California</h2>
